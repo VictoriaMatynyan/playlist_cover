@@ -1,0 +1,63 @@
+@import url(../vendor/fonts/inter.css);
+@import url(../vendor/normalize.css);
+
+
+.page {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'William', 'Inter', serif;
+}
+
+.album {
+    margin: 0 auto;
+    padding: 0;
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.album__header_type_one {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: 'William', serif;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 34px;
+    font-weight: normal;
+    color: white;  
+}
+
+.album__header_type_two {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Inter', sans-serif;
+    margin-top: 0;
+    margin-bottom: 24px;
+    color: white;  
+}
+
+.album__data_type_year, .album__data_type_artist {
+    font-family: 'William', serif;
+    margin: 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 18px;
+    font-weight: normal; 
+    color: white;    
+}
+
+.album__picture {
+    width: 230px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.album__description {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    font-weight: 400;
+}
