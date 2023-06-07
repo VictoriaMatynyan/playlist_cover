@@ -1,0 +1,9 @@
+.album {
+    margin: 0 auto;
+    padding: 0;
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+.album__data_type_year, .album__data_type_artist {
+    font-family: 'William', serif;
+    margin: 0;
+    font-size: 15px;
+    text-transform: uppercase;
+    line-height: 18px;
+    font-weight: normal; 
+    color: white;    
+}
