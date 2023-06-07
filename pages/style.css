@@ -3,10 +3,12 @@
 
 
 .page {
-    max-width: 1280px;
+    width: 100vw;
+    height: 100vh;
     margin: 0 auto;
     padding: 0;
     font-family: 'William', 'Inter', serif;
+    background-image: linear-gradient(to top, #bdc2e8 0%, #bdc2e8 1%, #e6dee9 100%);
 }
 
 .album {
