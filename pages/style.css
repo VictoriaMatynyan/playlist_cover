@@ -3,8 +3,12 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/album/album.css);
+@import url(../blocks/album/__header/album__header.css);
 @import url(../blocks/album/__header/_type/_one/album__header_type_one.css);
 @import url(../blocks/album/__header/_type/_two/album__header_type_two.css);
+@import url(../blocks/album/__data/album__data.css);
 @import url(../blocks/album/__data/_type/album__data_type.css);
 @import url(../blocks/album/__picture/album__picture.css);
-@import url(../blocks/album/__description/album__description.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__album-description/footer__album-description.css);
